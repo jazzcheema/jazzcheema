@@ -4,7 +4,7 @@ I'm a Software Engineer with a background in film & video production.
 
 I'm into building interactive applications, and exploring storytelling and sound in combination with powerful backend servers. 
 
-Currently I'm working on a creative application with a UX/Graphic Designer, and further exploring Three.js
+Currently I'm working on a creative application with a UI/Graphic Designer, and further exploring Three.js
 
 Some highlights:
 

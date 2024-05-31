@@ -10,14 +10,14 @@ Some highlights:
 
 *Built my own interactive full-stack application where a user can request three random videos (between 200-1200 views). After third request, the user is blocked at the database level until midnight, clearing via a cron job.*
 
-- [YouWish: ]
+- [YouWish: https://github.com/jazzcheema/youwish ]
 
 
 *Below are three fullstack applications I made in collaboration with a partner*
 
-- [Warbler: ]
+- [Warbler: https://github.com/jazzcheema/flask-warbler ]
 - [Pixly: https://github.com/jazzcheema/pixly-app ]
-- [Jobly: ]
+- [Jobly: https://github.com/jazzcheema/Jobly-Fullstack ]
 
 
 

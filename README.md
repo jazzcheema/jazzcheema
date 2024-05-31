@@ -16,7 +16,7 @@ Some highlights:
 *Below are three fullstack applications I made in collaboration with a partner*
 
 - [Warbler: ]
-- [Pixly: ]
+- [Pixly: https://github.com/jazzcheema/pixly-app ]
 - [Jobly: ]
 
 

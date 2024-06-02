@@ -8,7 +8,7 @@ Currently I'm working on a creative application with a UI/Graphic Designer, and 
 
 Some highlights:
 
-*Built my own interactive full-stack application where a user can request three random videos (between 200-1200 views). After third request, the user is blocked at the database level until midnight, clearing via a cron job.*
+*Built my own interactive fullstack application where a user can request three random videos (between 200-1200 views). After third request, the user is blocked at the database level until midnight, clearing via a cron job.*
 
 - [YouWish: https://github.com/jazzcheema/youwish ]
 

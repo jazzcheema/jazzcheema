@@ -13,7 +13,7 @@ Some highlights:
 - [YouWish: https://github.com/jazzcheema/youwish ]
 
 
-*Below are three fullstack applications I made in collaboration with a partner*
+*Below are three fullstack applications I made in collaboration with a partner:*
 
 - [Warbler: https://github.com/jazzcheema/flask-warbler ]
 - [Pixly: https://github.com/jazzcheema/pixly-app ]

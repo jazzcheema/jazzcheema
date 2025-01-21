@@ -2,10 +2,6 @@
 
 I'm a Software Engineer with a background in film & video production. 
 
-I'm into building interactive applications, and exploring storytelling and sound in combination with powerful backend servers. 
-
-Currently I'm working on a creative application with a UI/Graphic Designer, and further exploring Three.js
-
 Some highlights:
 
 *Built my own interactive fullstack application where a user can request three random videos (between 200-1200 views). After third request, the user is blocked at the database level until midnight, clearing via a cron job.*

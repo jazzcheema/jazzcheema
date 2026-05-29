@@ -4,7 +4,7 @@ Creative Developer and filmmaker building cinematic realtime web experiences, im
 
 ## Selected Work
 
-- - [Portfolio: jazzcheema.net ]
+- - [Portfolio: https://jazzcheema.net ]
 - tevacheema.com
 - episodecompanies.com
 

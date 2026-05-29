@@ -8,18 +8,11 @@ Creative Developer and filmmaker building cinematic realtime web experiences, im
 - [3D Interactive Artist Portfolio: https://tevacheema.com ]
 - [3D Interactive Web Build For Real Estate Firm: https://episodecompanies.com ]
 
-* Below is an interactive full-stack application built during a 6-day sprint at my fullstack bootcamp.*
+* Below is an interactive full-stack application built during a 6-day sprint at my fullstack bootcamp. Public repo*
+  
 Users request three randomly selected YouTube videos between 200–1200 views, spotlighting smaller independent creators. After the third request, users are temporarily blocked at the database level until midnight via automated cron-based reset logic.
 
 - [YouWish: https://github.com/jazzcheema/youwish ]
-
-
-*Below are three fullstack applications I made in collaboration with a partner:*
-
-- [Warbler: https://github.com/jazzcheema/flask-warbler ]
-- [Pixly: https://github.com/jazzcheema/pixly-app ]
-- [Jobly: https://github.com/jazzcheema/Jobly-Fullstack ]
-
 
 
 ## Languages, Tools & Frameworks I like to use: 

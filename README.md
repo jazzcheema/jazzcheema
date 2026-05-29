@@ -8,9 +8,8 @@ Creative Developer and filmmaker building cinematic realtime web experiences, im
 - [3D Interactive Artist Portfolio: https://tevacheema.com ]
 - [3D Interactive Web Build For Real Estate Firm: https://episodecompanies.com ]
 
-* Below is an interactive full-stack application built during a 6-day sprint at my fullstack bootcamp. Public repo*
-  
-Users request three randomly selected YouTube videos between 200–1200 views, spotlighting smaller independent creators. After the third request, users are temporarily blocked at the database level until midnight via automated cron-based reset logic.
+Below is an interactive full-stack application built during a 6-day sprint at my fullstack bootcamp. Public repo.
+>Users request three randomly selected YouTube videos between 200–1200 views, spotlighting smaller independent creators. After the third request, users are temporarily blocked at the database level until midnight via automated cron-based reset logic.
 
 - [YouWish: https://github.com/jazzcheema/youwish ]
 

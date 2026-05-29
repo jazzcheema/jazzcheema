@@ -4,9 +4,9 @@ Creative Developer and filmmaker building cinematic realtime web experiences, im
 
 ## Selected Work
 
-- - [Portfolio: https://jazzcheema.net ]
-- tevacheema.com
-- episodecompanies.com
+- [Portfolio: https://jazzcheema.net ]
+- [3D Interactive Artist Portfolio: https://tevacheema.com ]
+- [3D Interactive Web Build For Real Estate Firm: https://episodecompanies.com ]
 
 *Interactive full-stack application built during a 6-day sprint at my fullstack bootcamp.*
 
